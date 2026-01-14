@@ -140,9 +140,7 @@ df = pd.read_csv("autonomous_navigation_dataset.csv")
 ## Project Structure (suggested)
 
 - `notebooks/`
-  - `01_eda.ipynb`
-  - `02_rule_based_baseline.ipynb`
-  - `03_near_miss_anomaly.ipynb`
+
 - `data/`
   - `autonomous_navigation_dataset.csv` *(or Kaggle input path)*
 - `README.md`
